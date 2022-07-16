@@ -5,6 +5,8 @@ name = "pypi"
 
 [packages]
 tensorflow = "==2.6.1"
+numpy = "==1.15.0"
+pandas = "==1.3.5"
 
 [dev-packages]
 
